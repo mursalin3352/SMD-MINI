@@ -56,7 +56,7 @@ module.exports = {
   // =====================
   SITE_URL:
     process.env.SITE_URL ||
-    "https://mr-shaban.vercel.app",
+    "https://andbad-qr-k71b.onrender.com/",
 
   PORT:
     process.env.PORT ||
