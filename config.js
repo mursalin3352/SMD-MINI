@@ -2,63 +2,63 @@ const fs = require('fs');
 const dotenv = require('dotenv');
 
 if (fs.existsSync('.env')) {
-    dotenv.config({ path: '.env' });
+  dotenv.config({ path: '.env' });
 }
 
 module.exports = {
 
-    // =============================
-    // DATABASE
-    // =============================
-    DATABASE_URL:
-        process.env.MONGODB_URI ||
-        process.env.DATABASE_URL ||
-        "",
+  // =====================
+  // DATABASE
+  // =====================
+  DATABASE_URL:
+    process.env.MONGODB_URI ||
+    process.env.DATABASE_URL ||
+    "",
 
-    // =============================
-    // BOT CORE SETTINGS
-    // =============================
-    OWNER_NUMBER:
-        process.env.OWNER_NUMBER ||
-        "923292460360",
-    
-    PREFIX: process.env.PREFIX || ".",
+  // =====================
+  // BOT CORE SETTINGS
+  // =====================
+  OWNER_NUMBER:
+    process.env.OWNER_NUMBER ||
+    "923929240360",
 
-    // =============================
-    // GLOBAL BRANDING
-    // =============================
-    BOT_NAME:
-        process.env.BOT_NAME ||
-        "MURSALIN KING",
+  PREFIX: process.env.PREFIX || ".",
 
-    OWNER_NAME:
-        process.env.OWNER_NAME ||
-        "MURSALIN",
+  // =====================
+  // GLOBAL BRANDING
+  // =====================
+  BOT_NAME:
+    process.env.BOT_NAME ||
+    "MURSALIN KING",
 
-    CAPTION:
-        process.env.CAPTION ||
-        "POWERED BY Mursalin-King",
+  OWNER_NAME:
+    process.env.OWNER_NAME ||
+    "MURSALIN",
 
-    STATUS_MSG:
-        process.env.STATUS_MSG ||
-        "Hello From MURSALIN KING",
+  CAPTION:
+    process.env.CAPTION ||
+    "POWERED BY MURSALIN KING",
 
-    NEWSLETTER_JID:
-        process.env.NEWSLETTER_JID ||
-        "120363175375282051@newsletter",
+  STATUS_MSG:
+    process.env.STATUS_MSG ||
+    "Hello From Mursalin King",
 
-    MENU_IMG:
-        process.env.MENU_IMG ||
-        "https://bandaheali-cdn.koyeb.app/bandaheali/smd.jpg",
+  NEWSLETTER_JID:
+    process.env.NEWSLETTER_JID ||
+    "12036317575282051@newsletter",
 
-    // =============================
-    // SITE URL FOR PAIR CMD
-    // =============================
-    SITE_URL:
-        process.env.SITE_URL ||
-        "https://mr-shaban.vercel.app",
+  MENU_IMG:
+    process.env.MENU_IMG ||
+    "https://bandaheali-cdn.koyeb.app/bandaheali/smd.jpg",
 
-    PORT:
-        process.env.PORT ||
-        "21604"
+  // =====================
+  // SITE URL FOR PAIR CMD
+  // =====================
+  SITE_URL:
+    process.env.SITE_URL ||
+    "https://mr-shaban.vercel.app",
+
+  PORT:
+    process.env.PORT ||
+    "21604"
 };
