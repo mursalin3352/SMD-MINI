@@ -20,7 +20,7 @@ module.exports = {
     // =============================
     OWNER_NUMBER:
         process.env.OWNER_NUMBER ||
-        "923253617422",
+        "923292460360",
     
     PREFIX: process.env.PREFIX || ".",
 
@@ -29,19 +29,19 @@ module.exports = {
     // =============================
     BOT_NAME:
         process.env.BOT_NAME ||
-        "SMD-MINI",
+        "MURSALIN KING",
 
     OWNER_NAME:
         process.env.OWNER_NAME ||
-        "TEAM-BANDAHEALI",
+        "MURSALIN",
 
     CAPTION:
         process.env.CAPTION ||
-        "POWERED BY TEAM-BANDAHEALI",
+        "POWERED BY Mursalin-King",
 
     STATUS_MSG:
         process.env.STATUS_MSG ||
-        "Hello From Team-Bandaheali",
+        "Hello From MURSALIN KING",
 
     NEWSLETTER_JID:
         process.env.NEWSLETTER_JID ||
