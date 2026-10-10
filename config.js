@@ -20,7 +20,7 @@ module.exports = {
   // =====================
   OWNER_NUMBER:
     process.env.OWNER_NUMBER ||
-    "923929240360",
+    "923292460360",
 
   PREFIX: process.env.PREFIX || ".",
 
