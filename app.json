@@ -3,9 +3,9 @@
   "description": "Javascript WhatsApp bot powered by Team-Bandaheali",
   "logo": "https://bandaheali-cdn.koyeb.app/bandaheali/smd.jpg",
   "keywords": [
-    "SMD-MiNi",
-    "Bandaheali",
-    "Team-Bandaheali",
+    "MKING-MiNi",
+    "Mursalin",
+    "Team-Mking",
     "WhatsApp Bot",
     "Baileys Bot",
     "Nodejs Bot"
@@ -21,7 +21,7 @@
 
     "OWNER_NUMBER": {
       "description": "Bot owner WhatsApp number without + sign",
-      "value": "923253617422",
+      "value": "923292460360",
       "required": true
     },
 
@@ -45,13 +45,13 @@
 
     "CAPTION": {
       "description": "Footer caption used in bot messages",
-      "value": "POWERED BY TEAM-BANDAHEALI",
+      "value": "POWERED BY TEAM-MKING👑",
       "required": false
     },
 
     "STATUS_MSG": {
       "description": "Bot auto status message",
-      "value": "Hello From Team-Bandaheali",
+      "value": "Hello From Team-Mking",
       "required": false
     },
 
