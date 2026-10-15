@@ -1,7 +1,7 @@
 {
-  "name": "smd-mini",
+  "name": "M-KING👑",
   "version": "1.0.0",
-  "description": "SMD Mini WhatsApp Bot using Baileys and MongoDB",
+  "description": "mking Mini WhatsApp Bot using Baileys and MongoDB",
   "type": "commonjs",
   "main": "index.js",
 
@@ -15,7 +15,7 @@
     "dev": "nodemon index.js"
   },
 
-  "author": "Team-Bandaheali",
+  "author": "Team-Mking",
   "license": "MIT",
 
   "keywords": [
@@ -24,7 +24,7 @@
     "shabanmd",
     "bandaheali",
     "edith",
-    "team-bandaheali"
+    "team-mking"
   ],
 
   "dependencies": {
