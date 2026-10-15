@@ -1,12 +1,12 @@
 /*
-   ✦ ✦ ✦   S M D - M I N I   ✦ ✦ ✦
+   ✦ ✦ ✦   M K 👑 - M I N I   ✦ ✦ ✦
 
 ─────────────────────────────────────────────────────────────
-📛 Project   : SMD-MiNi
-👤 Creator   : MRSHABAN
-🌐 GitHub    : https://github.com/iTx-Sarkar
+📛 Project   : MK👑-MiNi
+👤 Creator   : mursalin 
+🌐 GitHub    : https://github.com/mursalin3352
 📱 Contact   : https://t.me/@bandaheali
-📢 Channel   : https://whatsapp.com/channel/0029VaDaBJGJUM2jS0z59S3s
+📢 Channel   : https://whatsapp.com/channel/0029VbE0W8S3LdQLu8591G2j
 🗓 Release   : 12 • Aprail • 2026 | 12:00 PM
 ─────────────────────────────────────────────────────────────
  
